@@ -1,2 +1,1 @@
-PERMALINK:
 https://sepolia.etherscan.io/address/0x36503254b7f09ec0edaa774ed7095fb8092795ef#code#L1
